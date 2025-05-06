@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**sahilneverdies/sahilneverdies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">SAHIL MODS 🚀</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ApsXminer&label=Profile%20views&color=0e75b6&style=flat" alt="ApsXminer" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 About Me
+
+- 🔭 I’m currently working on **Danink Cloud**  
+- 🤖 Creator of `CodeX Security` (Discord Bot)  
+- 🧠 Learning C# + Advanced bot systems  
+- 🧰 Skills: `Python`, `JS`, `Node.js`, `HTML`, `CSS`, `Discord API`, `C#`, `Minecraft` mods  
+- 🌐 Portfolio: [team.danink.cloud/aps](https://team.danink.cloud/aps)
+
+---
+
+### 🧩 Projects
+- [danink.cloud](https://danink.cloud)
+- [team.danink.cloud](https://team.danink.cloud)
+
