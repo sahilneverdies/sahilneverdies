@@ -35,18 +35,18 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1nOnlySahil&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilneverdies&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1nOnlySahil&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilneverdies&theme=radical" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1nOnlySahil&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilneverdies&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ## 🔥 Contribution Graph
 
-[![1nOnlySahil's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=1nOnlySahil&bg_color=1a1b27&color=00ffff&line=5eead4&point=ffffff&area=true&hide_border=true)](https://github.com/1nOnlySahil)
+[![1nOnlySahil's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sahilneverdies&bg_color=1a1b27&color=00ffff&line=5eead4&point=ffffff&area=true&hide_border=true)](https://github.com/1nOnlySahil)
 
 ---
 
