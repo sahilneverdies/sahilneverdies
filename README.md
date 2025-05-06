@@ -3,7 +3,7 @@
 <h1 align="center">SAHIL MODS 🚀</h1>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=1nOnlySahil💢&label=Profile%20views&color=blue&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=1nOnlySahil&label=Profile%20views&color=blue&style=flat" />
 
 </p>
 
