@@ -2,7 +2,7 @@
 
 ---
 
-<h1 align="center"><font color="aqua">1nOnlySahil (aka Sahil)</font></h1>
+<h1 align="center"><font color="aqua">sahilneverdies (AKA SAHIL)</font></h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=1nOnlySahil&label=Profile%20views&color=0e75b6&style=flat" alt="1nOnlySahil" />
