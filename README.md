@@ -1,8 +1,10 @@
-<h3 align="center"><font color="red">Made by CODE X Community</font></h3>
+<h3 align="center"><font color="red">Made by SAHIL MODS</font></h3>
 
 ---
 
-<h1 align="center"><font color="aqua">sahilneverdies (aka APS)</font></h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&center=true&vCenter=true&color=00FFFF&width=435&lines=sahilneverdies+(aka+APS);Full-Stack+Developer;Founder+of+Danink+Cloud;Building+Cool+Stuff+with+Code" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sahilneverdies&label=Profile%20views&color=0e75b6&style=flat" alt="sahilneverdies" />
@@ -12,11 +14,11 @@
 
 ## 👋 About Me
 
-- 💻 Multi-stack Developer & Cloud Architect
-- 🧠 Founder of **Danink Cloud**
-- 🛡 Creator of **CodeX Security**
-- 🧙 Advanced Discord Bot Developer
-- 🚀 Passionate about backend, automation, and full-stack tools
+- 💻 Multi-stack Developer & Cloud Architect  
+- 🧠 Founder of **Danink Cloud**  
+- 🛡 Creator of **CodeX Security**  
+- 🧙 Advanced Discord Bot Developer  
+- 🚀 Passionate about backend, automation, and full-stack tools  
 
 ---
 
@@ -46,7 +48,7 @@
 
 ## 🔥 Contribution Graph
 
-[![sahilneverdies's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sahilneverdies&bg_color=1a1b27&color=00ffff&line=5eead4&point=ffffff&area=true&hide_border=true)](https://github.com/sahilneverdies)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sahilneverdies&bg_color=1a1b27&color=00ffff&line=5eead4&point=ffffff&area=true&hide_border=true)](https://github.com/sahilneverdies)
 
 ---
 
