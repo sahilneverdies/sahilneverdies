@@ -46,7 +46,7 @@
 
 ## 🔥 Contribution Graph
 
-[![1nOnlySahil's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sahilneverdies&bg_color=1a1b27&color=00ffff&line=5eead4&point=ffffff&area=true&hide_border=true)](https://github.com/1nOnlySahil)
+[![1nOnlySahil's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sahilneverdies&bg_color=1a1b27&color=00ffff&line=5eead4&point=ffffff&area=true&hide_border=true)](https://github.com/sahilneverdies)
 
 ---
 
