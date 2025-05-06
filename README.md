@@ -58,7 +58,7 @@
 - 🌍 [SAHIL MODS](https://discord.gg/y7d3fKcV2a)
 - 🧩 [Team Page](https://team.danink.cloud/aps)
 - 💬 [Discord](https://discord.gg/zabhE5yEk7)
-- 🌎 [Portfolio]([https://team.danink.cloud/aps](https://sahilneverdies.github.io/Portfolio/))
+- 🌎 [Portfolio](https://sahilneverdies.github.io/Portfolio/)
 
 ---
 
