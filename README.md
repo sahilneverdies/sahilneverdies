@@ -1,22 +1,22 @@
-<h3 align="center"><font color="red">Made by SAHIL MODS</font></h3>
+<h3 align="center"><font color="red">Made by CODE X Community</font></h3>
 
 ---
 
-<h1 align="center"><font color="aqua">sahilneverdies (AKA SAHIL)</font></h1>
+<h1 align="center"><font color="aqua">sahilneverdies (aka APS)</font></h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahilneverdies&label=Profile%20views&color=0e75b6&style=flat" alt="1nOnlySahil" />
+  <img src="https://komarev.com/ghpvc/?username=sahilneverdies&label=Profile%20views&color=0e75b6&style=flat" alt="sahilneverdies" />
 </p>
 
 ---
 
 ## 👋 About Me
 
-- 🔧 Multi-stack Developer, Discord Bot Wizard
-- 🌐 Founder of **Danink Cloud**
+- 💻 Multi-stack Developer & Cloud Architect
+- 🧠 Founder of **Danink Cloud**
 - 🛡 Creator of **CodeX Security**
-- 🎯 Focused on `C#`, advanced bots, and backend tech
-- 🚀 Passionate about building cloud tools & Discord services
+- 🧙 Advanced Discord Bot Developer
+- 🚀 Passionate about backend, automation, and full-stack tools
 
 ---
 
@@ -46,13 +46,13 @@
 
 ## 🔥 Contribution Graph
 
-[![1nOnlySahil's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sahilneverdies&bg_color=1a1b27&color=00ffff&line=5eead4&point=ffffff&area=true&hide_border=true)](https://github.com/sahilneverdies)
+[![sahilneverdies's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sahilneverdies&bg_color=1a1b27&color=00ffff&line=5eead4&point=ffffff&area=true&hide_border=true)](https://github.com/sahilneverdies)
 
 ---
 
 ## 🌐 Links
 
-- 🔗 [Danink Cloud](https://danink.cloud)
+- 🌍 [Danink Cloud](https://danink.cloud)
 - 🧩 [Team Page](https://team.danink.cloud/aps)
 - 💬 [Discord](https://discord.gg/zabhE5yEk7)
 - 🌎 [Portfolio](https://team.danink.cloud/aps)
@@ -61,7 +61,7 @@
 
 ## 💡 Projects
 
-- `SAHIL MODS SECURITY BOT`
-- `CodeX Security`
-- `Minecraft Dev Plugins`
-- `Advanced Discord Bot Systems`
+- 🔹 `danink.cloud`
+- 🔹 `CodeX Security`
+- 🔹 `Minecraft Developer Tools`
+- 🔹 `Next-gen Discord Bots`
