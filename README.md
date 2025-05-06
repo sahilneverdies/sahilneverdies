@@ -3,7 +3,7 @@
 ---
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&center=true&vCenter=true&color=00FFFF&width=435&lines=sahilneverdies+(aka+APS);Full-Stack+Developer;Founder+of+Danink+Cloud;Building+Cool+Stuff+with+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&center=true&vCenter=true&color=00FFFF&width=435&lines=sahilneverdies+(aka+SAHIL);Full-Stack+Developer;Founder+of+SAHIL MODS;Building+Cool+Stuff+with+Code" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -54,10 +54,10 @@
 
 ## 🌐 Links
 
-- 🌍 [Danink Cloud](https://danink.cloud)
+- 🌍 [SAHIL MODS]([https://danink.cloud](https://discord.gg/y7d3fKcV2a))
 - 🧩 [Team Page](https://team.danink.cloud/aps)
 - 💬 [Discord](https://discord.gg/zabhE5yEk7)
-- 🌎 [Portfolio](https://team.danink.cloud/aps)
+- 🌎 [Portfolio]([https://team.danink.cloud/aps](https://sahilneverdies.github.io/Portfolio/))
 
 ---
 
