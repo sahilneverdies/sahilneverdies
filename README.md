@@ -16,8 +16,8 @@
 ## 👋 About Me
 
 - 💻 Multi-stack Developer & Cloud Architect  
-- 🧠 Founder of **Danink Cloud**  
-- 🛡 Creator of **CodeX Security**  
+- 🧠 Founder of **SAHIL MODS**  
+- 🛡 Creator of **SAHIL MODS Security**  
 - 🧙 Advanced Discord Bot Developer  
 - 🚀 Passionate about backend, automation, and full-stack tools  
 
