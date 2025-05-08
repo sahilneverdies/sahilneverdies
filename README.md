@@ -3,7 +3,7 @@
 ---
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&center=true&vCenter=true&color=00FFFF&width=435&lines=ssahilneverdies+(aka+SAHIL);Full-Stack+Developer;Founder+of+SAHIL+MODS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&center=true&vCenter=true&color=00FFFF&width=435&lines=Sahil+(aka+SAHIL);Full-Stack+Developer;Founder+of+SAHIL+MODS" alt="Typing SVG" />
 
 </h1>
 
@@ -64,7 +64,7 @@
 
 ## 💡 Projects
 
-- 🔹 `danink.cloud`
-- 🔹 `CodeX Security`
-- 🔹 `Minecraft Developer Tools`
+- 🔹 `SAHIL MODS SECURITY`
+- 🔹 `SAHIL MODS MUSIC`
+- 🔹 `TICKET BOT`
 - 🔹 `Next-gen Discord Bots`
