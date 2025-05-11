@@ -1,9 +1,9 @@
-<h3 align="center"><font color="red">Made by SAHIL MODS</font></h3>
+<h3 align="center"><font color="red">Made by SAHIL </font></h3>
 
 ---
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&center=true&vCenter=true&color=00FFFF&width=435&lines=Sahil+(aka+SAHIL);Full-Stack+Developer;Founder+of+SAHIL+MODS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&center=true&vCenter=true&color=00FFFF&width=435&lines=1nOnlySahil+(aka+SAHIL);Full-Stack+Developer;Founder+of+Wump+Security" alt="Typing SVG" />
 
 </h1>
 
@@ -17,7 +17,7 @@
 
 - 💻 Multi-stack Developer & Cloud Architect  
 - 🧠 Founder of **SAHIL MODS**  
-- 🛡 Creator of **SAHIL MODS Security**  
+- 🛡 Creator of **Wump Security**  
 - 🧙 Advanced Discord Bot Developer  
 - 🚀 Passionate about backend, automation, and full-stack tools  
 
@@ -55,7 +55,7 @@
 
 ## 🌐 Links
 
-- 🌍 [SAHIL MODS](https://discord.gg/y7d3fKcV2a)
+- 🌍 [Wump security](https://discord.gg/y7d3fKcV2a)
 - 🧩 [Team Page](https://team.danink.cloud/aps)
 - 💬 [Discord](https://discord.gg/zabhE5yEk7)
 - 🌎 [Portfolio](https://sahilneverdies.github.io/Portfolio/)
