@@ -16,9 +16,9 @@
 ## 👋 About Me
 
 - 💻 Multi-stack Developer & Cloud Architect  
-- 🧠 Founder of **SAHIL MODS**  
-- 🛡 Creator of **Wump Security**  
-- 🧙 Advanced Discord Bot Developer  
+- 🧠 Founder of **Spectre Services & Vexa node**  
+- 🛡 Creator of **GItguard**  
+- 🧙 Advanced Discord Bot & FF Panel Developer  
 - 🚀 Passionate about backend, automation, and full-stack tools  
 
 ---
@@ -55,9 +55,9 @@
 
 ## 🌐 Links
 
-- 🌍 [Wump security](https://discord.gg/y7d3fKcV2a)
+- 🌍 [GItGuard](https://discord.com/oauth2/authorize?client_id=1441459969382940844&permissions=2113268958&scope=bot)
 - 🧩 [Team Page](https://team.danink.cloud/aps)
-- 💬 [Discord](https://discord.gg/zabhE5yEk7)
+- 💬 [Discord](https://discord.gg/fzbmhzgU)
 - 🌎 [Portfolio](https://sahilneverdies.github.io/Portfolio/)
 
 ---
