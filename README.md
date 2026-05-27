@@ -1,11 +1,4 @@
-<p align="center">
-  <img src="./cyberpunk_banner.png" alt="SageSahil Banner" width="100%" />
-</p>
-
-<h1 align="center">SageSahil (aka Sage666)</h1>
-<p align="center">
-  <strong>Full-Stack Developer • Cloud Architect • Founder of Vexanode & Xenitronix</strong>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:00ffff&text=SageSahil&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Cloud%20Architect&descSize=22&descColor=00FFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=sahilneverdies">
@@ -38,6 +31,10 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="./cyberpunk_banner.png" alt="SageSahil Banner" width="100%" />
+</p>
 
 ---
 
