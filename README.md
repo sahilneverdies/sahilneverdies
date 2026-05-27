@@ -3,7 +3,7 @@
 ---
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&center=true&vCenter=true&color=00FFFF&width=435&lines=1nOnlySahil+(aka+SAHIL);Full-Stack+Developer;Founder+of+Gitguard" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&center=true&vCenter=true&color=00FFFF&width=435&lines=SageSahil+(aka+Sage666);Full-Stack+Developer;Founder+of+Vexanode" alt="Typing SVG" />
 
 </h1>
 
@@ -16,9 +16,9 @@
 ## 👋 About Me
 
 - 💻 Multi-stack Developer & Cloud Architect  
-- 🧠 Founder of **Spectre Services & Vexa node**  
+- 🧠 Founder of **Xenitronix & Vexa node**  
 - 🛡 Creator of **GItguard**  
-- 🧙 Advanced Discord Bot & FF Panel Developer  
+- 🧙 Advanced UId bypass  & FF Panel Developer  
 - 🚀 Passionate about backend, automation, and full-stack tools  
 
 ---
@@ -64,7 +64,7 @@
 
 ## 💡 Projects
 
-- 🔹 `SAHIL MODS SECURITY`
-- 🔹 `SAHIL MODS MUSIC`
-- 🔹 `TICKET BOT`
-- 🔹 `Next-gen Discord Bots`
+- 🔹 `Rust uid bypass`
+- 🔹 `Miyuki music`
+- 🔹 `Gitguard`
+- 🔹 `Xeni Code`
