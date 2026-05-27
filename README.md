@@ -32,9 +32,9 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="./cyberpunk_banner.png" alt="SageSahil Banner" width="100%" />
-</p>
+#<p align="center">
+ # <img src="./cyberpunk_banner.png" alt="SageSahil Banner" width="100%" />
+#</p>
 
 ---
 
