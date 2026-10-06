@@ -12,11 +12,11 @@
   <tr>
     <td valign="top" width="50%">
       <h3>⚡ About Me</h3>
-      <p>I'm a passionate multi-stack developer and cloud architect dedicated to building secure, automated, and high-performance full-stack tools. I love tackling complex backend systems, developing interactive solutions, and engineering custom bypass methods.</p>
+  #    <p>I'm a passionate multi-stack developer and cloud architect dedicated to building secure, automated, and high-performance full-stack tools. I love tackling complex backend systems, developing interactive solutions, and engineering custom bypass methods.</p>
       <ul>
         <li>🧠 Founder of <strong>Xenitronix</strong> & <strong>Vexanode</strong></li>
         <li>🛡️ Creator of <strong>Gitguard</strong> (Discord Security Bot)</li>
-        <li>🧙 Advanced UID Bypass & FF Panel Developer</li>
+  #      <li>🧙 Advanced UID Bypass & FF Panel Developer</li>
         <li>🚀 Specializing in automation, APIs, and cloud infrastructure</li>
       </ul>
     </td>
@@ -25,8 +25,8 @@
       <ul>
         <li>💼 <strong>Current Focus:</strong> Cloud architecture & security automation</li>
         <li>💬 <strong>Ask me about:</strong> Node.js, Python, & bot orchestration</li>
-        <li>📫 <strong>Discord:</strong> <a href="https://discord.gg/fzbmhzgU">Join my server</a></li>
-        <li>🌐 <strong>Web:</strong> <a href="https://sahilneverdies.github.io/Portfolio/">Portfolio website</a></li>
+     #   <li>📫 <strong>Discord:</strong> <a href="https://discord.gg/fzbmhzgU">Join my server</a></li>
+      #  <li>🌐 <strong>Web:</strong> <a href="https://sahilneverdies.github.io/Portfolio/">Portfolio website</a></li>
       </ul>
     </td>
   </tr>
