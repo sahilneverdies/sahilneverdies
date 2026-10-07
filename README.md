@@ -1,48 +1,8 @@
 <div align="center">
 
-<pre>
-                         .:--==++++++==--:.
-                    .-+*##%%%%%%%%%%%%%%##*+-.
-                 .+*#%%%%%%%%%%%%%%%%%%%%%%%%#*+.
-              .-*#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#*-.
-            :+#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#+:
-          -*#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#*-
-        .+#%%%%%%%%%%%%%%##**++++++++**##%%%%%%%%%%%%%%#+.
-       -*%%%%%%%%%%%%#*+=-.              .-=+*#%%%%%%%%%%%%*-
-      +#%%%%%%%%%%#*-.                        .-*#%%%%%%%%%%#+
-     *%%%%%%%%%%#=.        .-+********+-.        .=#%%%%%%%%%%*
-    #%%%%%%%%%#-       .+*#%%%%%%%%%%%%##*+.       -#%%%%%%%%%#
-   #%%%%%%%%#-      .+*%%%%%%%%%%%%%%%%%%%%*+.      -#%%%%%%%%#
-  *%%%%%%%%+      -*%%%%%%%%%%%%%%%%%%%%%%%%%%*-      +%%%%%%%%*
-  %%%%%%%%+     .+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%+.     +%%%%%%%%
- #%%%%%%%#     -*%%%%%%%%%%#*=-....-=*#%%%%%%%%%%*-     #%%%%%%%#
- %%%%%%%%     +%%%%%%%%#=.              .=#%%%%%%%%+     %%%%%%%%
- %%%%%%%%    *%%%%%%%#-      SAGE        -#%%%%%%%*    %%%%%%%%
- %%%%%%%%   #%%%%%%%+        SAHIL         +%%%%%%%#   %%%%%%%%
- %%%%%%%%   %%%%%%%#                         #%%%%%%%   %%%%%%%%
- %%%%%%%%   %%%%%%%*       DEVELOPER        *%%%%%%%   %%%%%%%%
- %%%%%%%%   #%%%%%%%+                       +%%%%%%%#   %%%%%%%%
- %%%%%%%%    *%%%%%%%#-.                 .-#%%%%%%%*    %%%%%%%%
- #%%%%%%%#    +#%%%%%%%%#*=-.        .-=*#%%%%%%%%#+    #%%%%%%%#
-  %%%%%%%%      -*%%%%%%%%%%%######%%%%%%%%%%%-      %%%%%%%%
-   #%%%%%%%#       .-+*#%%%%%%%%%%%%%%%%#*+-.       #%%%%%%%#
-    #%%%%%%%%#-.        .-==+********+==- .        -#%%%%%%%%#
-     *%%%%%%%%%%*-.                              .-*%%%%%%%%%%*
-      +#%%%%%%%%%%#+-.                        .-+#%%%%%%%%%%#+
-       -*#%%%%%%%%%%%%#*+-..              ..-+*#%%%%%%%%%%%%#*-
-         +#%%%%%%%%%%%%%%%%##**++++++**##%%%%%%%%%%%%%%%%#+
-           -*#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#*-
-             :+#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#+:
-                -*#%%%%%%%%%%%%%%%%%%%%%%%%%%%%#*-
-                   .+*#%%%%%%%%%%%%%%%%%%#*+.
-                       .-+*##%%%%%%%%##*+-.
-                            .:--====--:.
+<img src="./sagesahil-donut-ascii.gif" width="850" alt="SageSahil ASCII Donut">
 
-                    S A G E S A H I L
-               MULTI-STACK DEVELOPER
-</pre>
-
-<br>
+<br><br>
 
 <a href="https://komarev.com/ghpvc/?username=sahilneverdies">
 <img src="https://komarev.com/ghpvc/?username=sahilneverdies&label=Profile%20views&color=00FFFF&style=flat-square" alt="Profile views">
@@ -131,16 +91,12 @@ I enjoy working with backend infrastructure, APIs, automation, developer tools, 
 
 ## 💡 Featured Projects & Creations
 
-<div align="center">
-
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **Gitguard** 🛡️ | Advanced Discord protection and repository guard bot | `Node.js` `Discord.js` | [Authorize Bot](https://discord.com/oauth2/authorize?client_id=1441459969382940844&permissions=2113268958&scope=bot) |
 | **Rust UID Bypass** 🧙 | Premium memory bypass and execution system | `Rust` `C++` | *Closed Source* |
 | **Miyuki Music** 🎵 | High-fidelity, low-latency Discord music engine | `Node.js` `Lavalink` | [Join Discord Server](https://discord.gg/fzbmhzgU) |
 | **Xeni Code** 🧩 | Developer tools suite and code optimization APIs | `Python` `FastAPI` | [Team Page](https://team.danink.cloud/aps) |
-
-</div>
 
 ---
 
@@ -295,6 +251,12 @@ Infrastructure
 <strong>SageSahil</strong>
 
 <br><br>
+
+<a href="https://github.com/sahilneverdies">
+<img src="https://img.shields.io/github/followers/sahilneverdies?label=Followers&style=flat-square&color=00ffff" alt="GitHub Followers">
+</a>
+
+&nbsp;
 
 <img src="https://komarev.com/ghpvc/?username=sahilneverdies&label=Profile%20Views&color=00ffff&style=flat-square" alt="Profile Views">
 
