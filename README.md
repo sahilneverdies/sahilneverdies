@@ -22,24 +22,23 @@ I'm a passionate **multi-stack developer and cloud architect** focused on buildi
 
 I enjoy working with backend infrastructure, APIs, automation, developer tools, Discord bots, and cloud-based systems.
 
-- 🧠 Founder of **Xenitronix** & **Vexanode**
-- 🛡️ Creator of **Gitguard** — Discord Security Bot
-- 🚀 Specializing in **automation, APIs, and cloud infrastructure**
-- 💻 Building tools, bots, APIs, and custom developer systems
-- ☁️ Interested in scalable infrastructure and backend engineering
-- 🔧 Always experimenting with new technologies
+-  Made **Xenitronix** & **Vexanode**
+-  Creator of **Gitguard** — Discord Security Bot
+-  Building tools, bots, APIs, and custom developer systems
+-  Interested in scalable infrastructure and backend engineering
+-  Always experimenting with new technologies
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🛠️ Quick Info
+##  Quick Info
 
-- 💼 **Current Focus:** Cloud architecture & security automation
-- 💬 **Ask me about:** Node.js, Python & bot orchestration
-- ⚙️ **Specialties:** APIs, automation & infrastructure
-- 🧠 **Interests:** Backend systems & developer tooling
-- 🚀 **Building:** Tools, bots & scalable services
+-  **Current Focus:** Cloud architecture & security automation
+-  
+-  
+-  **Interests:** Backend systems & developer tooling
+-  **Building:** Tools, bots & scalable services
 
 </td>
 </tr>
